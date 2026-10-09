@@ -1,0 +1,29 @@
+ALGORITMO EM PORTUGUÊS: ACORDAR E COMEÇAR O DIA
+
+INÍCIO
+
+1. O despertador toca no horário programado.
+2. Ao ouvir o despertador, abro os olhos.
+3. Pego o celular e desligo o despertador.
+4. Verifico se estou suficientemente acordado para levantar.
+5. Se ainda estiver com sono, sento na cama e espero alguns instantes para despertar melhor.
+6. Enquanto não estiver bem acordado, continuo sentado, mantendo os olhos abertos.
+7. Quando estiver acordado, retiro a coberta de cima do corpo.
+8. Viro o corpo em direção à lateral da cama.
+9. Coloco as pernas para fora da cama.
+10. Apoio os pés no chão e permaneço sentado por alguns instantes.
+11. Levanto devagar e fico em pé.
+12. Se o quarto estiver escuro, acendo a luz para enxergar o caminho.
+13. Procuro meus chinelos ao lado da cama.
+14. Se encontrar os chinelos, calço os dois; caso contrário, procuro perto da cama até encontrá-los e depois os calço.
+15. Caminho até o banheiro.
+16. Lavo o rosto e seco com uma toalha.
+17. Pego a escova de dentes e coloco creme dental nela.
+18. Escovo os dentes, enxáguo a boca e guardo a escova.
+19. Volto ao quarto e arrumo a cama.
+20. Escolho uma roupa e me visto.
+21. Vou até a cozinha e preparo o café da manhã.
+22. Tomo o café da manhã.
+23. Confiro as atividades que preciso realizar e começo o meu dia.
+
+FIM
